@@ -1284,7 +1284,7 @@ section.our-facts {
 
 section.our-facts h2 {
   font-size: 38px;
-  color: #fff;
+  color: #000000;
   line-height: 50px;
   font-weight: 700;
   letter-spacing: 0.5px;
@@ -1313,7 +1313,7 @@ section.our-facts h2 {
 .count-title {
     font-size: 18px;
     font-weight: 500;
-    color: #fff;
+    color: #000000;
     letter-spacing: 0.5px;
 }
 
@@ -1402,7 +1402,7 @@ section.contact-us #contact textarea {
 section.contact-us #contact button {
   font-size: 13px;
   color: #fff;
-  background-color: #a12c2f;
+  background-color: goldenrod;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 22px;
@@ -1418,7 +1418,7 @@ section.contact-us #contact button:hover {
 }
 
 section.contact-us .right-info {
-  background-color: #a12c2f;
+  background-color:goldenrod;
   border-radius: 20px;
   padding: 40px;
 }
